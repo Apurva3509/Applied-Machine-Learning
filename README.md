@@ -17,4 +17,15 @@ The repository is organized as follows:
 ## How to Use
 1. **Clone the Repository**: You can clone this repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/Apurva/COMS-W4995-AML-Homework.git
+   git clone https://github.com/Apurva3509/Applied-Machine-Learning.git
+
+2. **Open in VS Code**: Navigate to the cloned repository directory using VS Code. You can use VS Code's built-in terminal for running Python scripts and managing the repository.
+
+3. **Run the Notebooks**: Open the assignment notebooks (.ipynb files) using Jupyter or Google Colab. Follow the instructions within the notebooks to execute the code cells and understand the solutions provided by Apurva.
+
+4. **Explore Data and Results**: Feel free to explore the datasets in the 'Data' folder and analyze the results obtained from running the code in the notebooks.
+
+# Contact
+--If you have any questions or suggestions regarding this repository, feel free to reach out to Apurva via email at apurva.patel@columbia.edu
+
+Thank you for visiting my COMS W4995 AML Homework Repository! Happy learning! 🚀📚
